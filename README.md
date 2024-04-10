@@ -38,8 +38,7 @@ Python : 3.10.11, Model : Ultralytics YOLO 8.0.112
 Pytorch : 2.0.1, CUDA 11.8
 
 - YOLOv8 Medium Model Summary
-![image](https://github.com/Hojun1123/4_1Mojadol/assets/65999992/cbf75d2d-fce8-4dcd-a8f7-135ab8b92555)
-
+![image](https://github.com/Hojun1123/4_1Mojadol/assets/65999992/5fabc5d8-8855-465b-9dbe-3c26284f4539)
 ![image](https://github.com/Hojun1123/4_1Mojadol/assets/65999992/f1a04509-3cdf-45cf-b5ec-d30ef965f315)                            
 
 - Confusion Matrix                                         
