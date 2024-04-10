@@ -18,8 +18,8 @@ AI 기술을 활용하여 무단 투기 행위를 탐지하고, 이를 관리하
 
 ### 학습 데이터 수집 및 가공
 1. AI허브, https://www.aihub.or.kr/
-2. 2. 직접 영상 수집 및 가공
-.mp4 -> jpg -> 라벨링(https://github.com/ivangrov/ModifiedOpenLabelling)
+2. 직접 영상 수집 및 가공
+  - .mp4 -> jpg -> 라벨링(https://github.com/ivangrov/ModifiedOpenLabelling)
 ![image](https://github.com/Hojun1123/4_1Mojadol/assets/65999992/cb60837e-8e7d-445e-b4aa-9464f21a7bdd)
 
 
