@@ -40,7 +40,7 @@ Pytorch : 2.0.1, CUDA 11.8
 - YOLOv8 Medium Model Summary
 ![image](https://github.com/Hojun1123/4_1Mojadol/assets/65999992/cbf75d2d-fce8-4dcd-a8f7-135ab8b92555)
 
-![image](https://github.com/Hojun1123/4_1Mojadol/assets/65999992/f1a04509-3cdf-45cf-b5ec-d30ef965f315)
+![image](https://github.com/Hojun1123/4_1Mojadol/assets/65999992/f1a04509-3cdf-45cf-b5ec-d30ef965f315)                            
 
 - Confusion Matrix                                         
 ![image](https://github.com/Hojun1123/4_1Mojadol/assets/65999992/c09127ff-f8b7-4322-9d59-3462b05c9587)
